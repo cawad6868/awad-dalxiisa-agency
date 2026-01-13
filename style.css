@@ -388,6 +388,9 @@ select{
    .hero h1{
     text-align: center;
    }
+   .tittle{
+    margin-top: 30px;
+   }
 }
 
 
